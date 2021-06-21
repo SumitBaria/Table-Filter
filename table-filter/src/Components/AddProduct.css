@@ -21,6 +21,10 @@
   flex-direction: column;
 }
 
+.MuiFormControl-root {
+  margin: 5px 0px !important;
+}
+
 .btn_secondary {
   width: 160px;
   margin-top: 15px !important;

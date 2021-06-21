@@ -14,13 +14,9 @@
 }
 
 .formcontrol {
-  margin: 15px !important;
+  margin: 25px !important;
   display: flex;
   align-items: center;
-}
-
-.control {
-  margin-right: 25px !important;
 }
 
 .btn {
