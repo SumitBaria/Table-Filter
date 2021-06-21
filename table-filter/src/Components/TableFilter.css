@@ -1,0 +1,21 @@
+/* .table {
+  max-width: 600px;
+} */
+
+.tablecontainer {
+  max-width: 1100px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+  flex-direction: column;
+}
+
+.tablehead {
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  background-color: aliceblue;
+}

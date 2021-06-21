@@ -1,0 +1,25 @@
+Make 2 table.
+there should be 30 rows(10 per each page(Pagination))
+
+Columns:
+1. Product Name
+2. Product Manufacturer.
+3. Product Price.(Float)
+4. Product Quantity(Float)
+5. Product Stock(Int)
+
+
+Filter Apply on:
+1) Price
+2) Quantity
+3) Stock
+
+
+
+Conditions:
+1. Filter Price < 100
+2. Stock > 5
+3. Only Data is shown that has obtain this condition.
+
+Using:
+React and Material-ui
