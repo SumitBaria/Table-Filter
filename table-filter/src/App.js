@@ -43,13 +43,13 @@ function App() {
               onChange={(e) => setFilterPrice(e.target.value)}
             >
               <MenuItem value={1}>
-                <DragHandleIcon />
+                <DragHandleIcon fontSize="small" />
               </MenuItem>
               <MenuItem value={2}>
-                <NavigateNextIcon />
+                <NavigateNextIcon fontSize="small" />
               </MenuItem>
               <MenuItem value={3}>
-                <NavigateBeforeIcon />
+                <NavigateBeforeIcon fontSize="small" />
               </MenuItem>
             </Select>
           </FormControl>
@@ -72,13 +72,13 @@ function App() {
               onChange={(e) => setFilterStock(e.target.value)}
             >
               <MenuItem value={1}>
-                <DragHandleIcon />
+                <DragHandleIcon fontSize="small" />
               </MenuItem>
               <MenuItem value={2}>
-                <NavigateNextIcon />
+                <NavigateNextIcon fontSize="small" />
               </MenuItem>
               <MenuItem value={3}>
-                <NavigateBeforeIcon />
+                <NavigateBeforeIcon fontSize="small" />
               </MenuItem>
             </Select>
           </FormControl>
